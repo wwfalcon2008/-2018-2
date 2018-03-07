@@ -1,0 +1,128 @@
+e:\my documents\visual studio 2015\Projects\刷新文件卡\刷新文件卡\obj\Debug\刷新文件卡.Form1.resources
+e:\my documents\visual studio 2015\Projects\刷新文件卡\刷新文件卡\obj\Debug\刷新文件卡.Properties.Resources.resources
+e:\my documents\visual studio 2015\Projects\刷新文件卡\刷新文件卡\obj\Debug\刷新文件卡.csproj.GenerateResource.Cache
+e:\My Documents\Visual Studio 2015\Projects\刷新文件卡\刷新文件卡\obj\Debug\Interop.SwConst.dll
+e:\My Documents\Visual Studio 2015\Projects\刷新文件卡\刷新文件卡\obj\Debug\刷新文件卡.csproj.ResolveComReference.cache
+e:\My Documents\Visual Studio 2015\Projects\刷新文件卡\刷新文件卡\obj\Debug\Interop.SldWorks.dll
+e:\my documents\visual studio 2015\Projects\刷新文件卡\刷新文件卡\bin\Debug\SW图纸模板替换工具.exe.config
+e:\my documents\visual studio 2015\Projects\刷新文件卡\刷新文件卡\bin\Debug\SW图纸模板替换工具.exe
+e:\my documents\visual studio 2015\Projects\刷新文件卡\刷新文件卡\bin\Debug\SW图纸模板替换工具.pdb
+e:\my documents\visual studio 2015\Projects\刷新文件卡\刷新文件卡\obj\Debug\SW图纸模板替换工具.exe
+e:\my documents\visual studio 2015\Projects\刷新文件卡\刷新文件卡\obj\Debug\SW图纸模板替换工具.pdb
+e:\my documents\visual studio 2015\Projects\刷新文件卡\刷新文件卡\obj\Debug\刷新文件卡.csprojResolveAssemblyReference.cache
+I:\sw开发\刷新文件卡\刷新文件卡\bin\Debug\SW图纸模板替换工具.exe.config
+I:\sw开发\刷新文件卡\刷新文件卡\obj\Debug\Interop.SldWorks.dll
+I:\sw开发\刷新文件卡\刷新文件卡\obj\Debug\Interop.SwConst.dll
+I:\sw开发\刷新文件卡\刷新文件卡\obj\Debug\刷新文件卡.csproj.ResolveComReference.cache
+I:\sw开发\刷新文件卡\刷新文件卡\obj\Debug\SW图纸模板替换工具.exe
+I:\sw开发\刷新文件卡\刷新文件卡\obj\Debug\SW图纸模板替换工具.pdb
+I:\sw开发\刷新文件卡\刷新文件卡\bin\Debug\SW图纸模板替换工具.exe
+I:\sw开发\刷新文件卡\刷新文件卡\bin\Debug\SW图纸模板替换工具.pdb
+I:\sw开发\刷新文件卡\刷新文件卡\obj\Debug\刷新文件卡.csprojResolveAssemblyReference.cache
+I:\sw开发\刷新文件卡\刷新文件卡\obj\Debug\刷新文件卡.Form1.resources
+I:\sw开发\刷新文件卡\刷新文件卡\obj\Debug\刷新文件卡.Properties.Resources.resources
+I:\sw开发\刷新文件卡\刷新文件卡\obj\Debug\刷新文件卡.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\bin\Debug\SW图纸模板替换工具.exe.config
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\Interop.SldWorks.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\Interop.SwConst.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\刷新文件卡.csproj.ResolveComReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\SW图纸模板替换工具.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\SW图纸模板替换工具.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\bin\Debug\SW图纸模板替换工具.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\bin\Debug\SW图纸模板替换工具.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\刷新文件卡.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\刷新文件卡.Form1.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\刷新文件卡.Properties.Resources.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\刷新文件卡.csproj.GenerateResource.Cache
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\bin\Debug\SW图纸模板替换工具.exe.config
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\Interop.SldWorks.dll
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\Interop.SwConst.dll
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\刷新文件卡.csproj.ResolveComReference.cache
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\SW图纸模板替换工具.exe
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\SW图纸模板替换工具.pdb
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\bin\Debug\SW图纸模板替换工具.exe
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\bin\Debug\SW图纸模板替换工具.pdb
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\刷新文件卡.csprojResolveAssemblyReference.cache
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\刷新文件卡.Form1.resources
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\刷新文件卡.Properties.Resources.resources
+I:\sw开发\刷新文件卡2016年7月11日\刷新文件卡\obj\Debug\刷新文件卡.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\bin\Debug\SW图纸模板替换工具.exe.config
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\obj\Debug\Interop.SldWorks.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\obj\Debug\Interop.SwConst.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\obj\Debug\刷新文件卡.csproj.ResolveComReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\obj\Debug\SW图纸模板替换工具.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\obj\Debug\SW图纸模板替换工具.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\bin\Debug\SW图纸模板替换工具.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\bin\Debug\SW图纸模板替换工具.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\obj\Debug\刷新文件卡.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\obj\Debug\刷新文件卡.Form1.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\obj\Debug\刷新文件卡.Properties.Resources.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡2016年7月14日\刷新文件卡\obj\Debug\刷新文件卡.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\bin\Debug\SW文件属性修订工具.exe.config
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\Interop.SldWorks.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\Interop.SwConst.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csproj.ResolveComReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\bin\Debug\SW文件属性修订工具.exe.manifest
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\bin\Debug\SW文件属性修订工具.application
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\bin\Debug\SW文件属性修订工具.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\bin\Debug\SW文件属性修订工具.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.Form1.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.Properties.Resources.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\SW文件属性修订工具.TrustInfo.xml
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\SW文件属性修订工具.exe.manifest
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\SW文件属性修订工具.application
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\SW文件属性修订工具.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\SW文件属性修订工具.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\bin\Debug\SW文件属性修订工具.exe.config
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\Interop.SldWorks.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\Interop.SwConst.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csproj.ResolveComReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\SW文件属性修订工具.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\SW文件属性修订工具.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\bin\Debug\SW文件属性修订工具.exe.manifest
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\bin\Debug\SW文件属性修订工具.application
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\bin\Debug\SW文件属性修订工具.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\bin\Debug\SW文件属性修订工具.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.Form1.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.Properties.Resources.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\SW文件属性修订工具.TrustInfo.xml
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\SW文件属性修订工具.exe.manifest
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\SW文件属性修订工具.application
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布1\刷新文件卡发布1\刷新文件卡\obj\Debug\Interop.SwCommands.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\bin\Debug\Solidworks辅助工具2017.exe.config
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\Interop.SldWorks.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\Interop.SwCommands.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\Interop.SwConst.dll
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csproj.ResolveComReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.Form1.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.Properties.Resources.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\Solidworks辅助工具2017.TrustInfo.xml
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\Solidworks辅助工具2017.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\Solidworks辅助工具2017.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\bin\Debug\Solidworks辅助工具2017.exe.manifest
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\bin\Debug\Solidworks辅助工具2017.application
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\bin\Debug\Solidworks辅助工具2017.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\bin\Debug\Solidworks辅助工具2017.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\Solidworks辅助工具2017.exe.manifest
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2017\刷新文件卡发布1\刷新文件卡\obj\Debug\Solidworks辅助工具2017.application
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\bin\Debug\Solidworks辅助工具2018.exe.config
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csproj.ResolveComReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\bin\Debug\Solidworks辅助工具2018.exe.manifest
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\bin\Debug\Solidworks辅助工具2018.application
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\bin\Debug\Solidworks辅助工具2018.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\bin\Debug\Solidworks辅助工具2018.pdb
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.Form1.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.Properties.Resources.resources
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\obj\Debug\刷新文件卡.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\obj\Debug\Solidworks辅助工具2018.TrustInfo.xml
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\obj\Debug\Solidworks辅助工具2018.exe.manifest
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\obj\Debug\Solidworks辅助工具2018.application
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\obj\Debug\Solidworks辅助工具2018.exe
+E:\My Documents\Visual Studio 2015\Projects\刷新文件卡发布2018-2\刷新文件卡发布1\刷新文件卡\obj\Debug\Solidworks辅助工具2018.pdb

@@ -1,0 +1,1 @@
+# SolidWorksAssist2018
