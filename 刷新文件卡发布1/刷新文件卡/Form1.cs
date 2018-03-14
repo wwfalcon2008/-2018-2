@@ -32,7 +32,7 @@ using System.Drawing.Printing;
 //using PrintSpecification = SolidWorks.Interop.sldworks.PrintSpecification;
 
 
-
+// master branch changed in csharp file 
 
 
 namespace 刷新文件卡
@@ -40,7 +40,7 @@ namespace 刷新文件卡
     public partial class Form1 : Form
     {
         ExcelEdit excel;
-        int row;        
+        int row;
         string sheetName="";
         string path = "";// = @"D:\SheetTemplate\";
         string xlsName;
@@ -57,7 +57,7 @@ namespace 刷新文件卡
         {
             InitializeComponent();
             label1.Text = AUTHOR;
-            
+
             //针对checkbox：不修改pdf文件名称的弹出式提示
             toolTip1.SetToolTip(checkBoxUnmodifyPDFName, "用于将无对应模型（SLDPRT或SLDASM）的工程图另存为PDF文件");
             toolTip2.SetToolTip(checkBoxPDF, "用于设定打印机为pdf虚拟打印机，在打印操作中不打印纸质文件");
@@ -293,7 +293,7 @@ namespace 刷新文件卡
                 Debug.Print((string)o);
             }
 
-            //////////////////////////需要判断是PART还是ASSEMBLY///////////           
+            //////////////////////////需要判断是PART还是ASSEMBLY///////////
             ModelDoc2 swDocDepend = swApp.GetOpenDocumentByName((string)swPart[1]);
             if (swDocDepend != null)
             {
@@ -384,7 +384,7 @@ namespace 刷新文件卡
 
                     #endregion
 
-                    #region Custom Properties            
+                    #region Custom Properties
 
                     var cusPropMgr = swDoc.Extension.get_CustomPropertyManager("");
 
@@ -507,7 +507,7 @@ namespace 刷新文件卡
                             Debug.Print("statusCompNumber:  " + statusCompNumber);
                             if ((valCompNumber != "") && (valoutPartNumber != ""))
                             {
-                                textBox1.AppendText(counter + ": " + filePath + "===<OK>" + System.Environment.NewLine);                                
+                                textBox1.AppendText(counter + ": " + filePath + "===<OK>" + System.Environment.NewLine);
 
                             }
                             else
@@ -678,7 +678,7 @@ namespace 刷新文件卡
                                     else
                                     {
                                         propValue = dataGridView1.Rows[i].Cells[1].Value.ToString();
-                                    }        
+                                    }
 
 
                                     if (dataGridView1.Rows[i].Cells[2].Value != null)
@@ -753,7 +753,7 @@ namespace 刷新文件卡
 
         private void searchPrinter()
         {
-            
+
             //defaultPrinter = print.PrinterSettings.PrinterName;
 
             foreach (String printerName in PrinterSettings.InstalledPrinters)
@@ -771,7 +771,7 @@ namespace 刷新文件卡
                 }
                 else if (printerName.IndexOf("5200") != -1)
                 {
-                    printerA3 = printerName;                 
+                    printerA3 = printerName;
 
                 }
 
@@ -800,7 +800,7 @@ namespace 刷新文件卡
             PrintSpecification printSpec;
             ModelDocExtension swModelDocExt;
             SldWorks.PageSetup swPageSetup;
-            DrawingDoc swDrwng;            
+            DrawingDoc swDrwng;
             string printerName = "";
 
             openFileDialog1.Filter = "SLDDRW files (*.slddrw)|*.slddrw";
@@ -832,10 +832,10 @@ namespace 刷新文件卡
                         Debug.WriteIf(swDrwng == null, swDoc.ToString() + "  " + swDrwng.ToString());
                         Sheet activeSheet = default(Sheet);
                         activeSheet = (Sheet)swDrwng.GetCurrentSheet();
-                      
+
                         sheetProperties = (double[])activeSheet.GetProperties();
                         paperSize = (swDwgPaperSizes_e)activeSheet.GetSize(ref width, ref height);
-                        
+
                         #endregion
                         Debug.Print(paperSize.ToString());
 
@@ -883,7 +883,7 @@ namespace 刷新文件卡
 
                                 #region A4 MODIFY FOR SW2017
                                 swPageSetup.PrinterPaperSize = 9;   // A3 PaperSize = 8; A4 PaperSize = 9
-                                swPageSetup.Orientation = 1; 
+                                swPageSetup.Orientation = 1;
                                 #endregion
 
                             }
@@ -907,7 +907,7 @@ namespace 刷新文件卡
                                 printerName = printerA3;
                                 swPageSetup.PrinterPaperSize = 8;   // A3 PaperSize = 8; A4 PaperSize = 9 // MARK CHANGED FOR VERSION 2017
                                 swPageSetup.Orientation = 2;    // 横向
-                                
+
                                 swModelDocExt.PrintOut4(printerA3, "", printSpec);
                             }
                             else if (paperSize == swDwgPaperSizes_e.swDwgPaperA4sizeVertical)
@@ -916,7 +916,7 @@ namespace 刷新文件卡
                                 swPageSetup.PrinterPaperSize = 9;   // A3 PaperSize = 8; A4 PaperSize = 9
                                 swPageSetup.Orientation = 1;    // 纵向  // MARK CHANGED FOR VERSION 2017
                                 //print.DefaultPageSettings.PaperSize = new PaperSize("Custom", 500, 300);
-                                
+
                                 swModelDocExt.PrintOut4(printerA4, "", printSpec);
 
                             }
@@ -949,7 +949,7 @@ namespace 刷新文件卡
                 }
                 textBoxFileListPrint.AppendText("-------------" + System.Environment.NewLine);
                 MessageBox.Show(this,"打印完成,共打印" + counter + "个文件");
-                
+
                 counter = 0;
                 total = 0;
             }
@@ -1048,7 +1048,7 @@ namespace 刷新文件卡
             {
                 DialogResult dr = MessageBox.Show(this,"请选择文件类型", "警告", MessageBoxButtons.OKCancel);
             }
-            
+
             counter = 0;
             int counterError = 0;
 
@@ -1071,7 +1071,7 @@ namespace 刷新文件卡
                     countDown();
 
                     filePath = fileName;
-                    
+
                     counter++;
 
 
@@ -1160,7 +1160,7 @@ namespace 刷新文件卡
                                 textBoxOrgWarning.AppendText("Warning(swDocProp==null): " + (string)swDoc.GetTitle() + System.Environment.NewLine);
 
                             }
-                        } 
+                        }
                         #endregion
 
                         try
@@ -1173,16 +1173,16 @@ namespace 刷新文件卡
                                 if(fileType ==1)    // fileType==SLDPRT
                                 {
 
-                                    // find slddrw==true 
-                                                                  
+                                    // find slddrw==true
+
                                     // reloadOrReplace Model of slddrw
                                     // Rename slddrw( saveAs)
                                 }
                                 else if(fileType == 2)  // fileType == SLDASM
                                 {
                                     // Replace all models
-                                    // save                                    
-                                    // fine slddrw == true                                    
+                                    // save
+                                    // fine slddrw == true
                                     // reloadOrReplace model of sldasm
                                     // rename slddrw(saveas)
                                 }
@@ -1225,7 +1225,7 @@ namespace 刷新文件卡
             ModelDoc2 swModel;
             ModelDocExtension swModelExt;
             SldWorks.SldWorks swApp = new SldWorks.SldWorks();
-            
+
 
             swModel = (ModelDoc2)swApp.ActiveDoc;
             swModelExt = (ModelDocExtension)swModel.Extension;
@@ -1296,7 +1296,7 @@ namespace 刷新文件卡
                                 Debug.Print((string)o);
                             }
 
-                            //////////////////////////需要判断是PART还是ASSEMBLY///////////           
+                            //////////////////////////需要判断是PART还是ASSEMBLY///////////
                             ModelDoc2 swDocDepend = swApp.GetOpenDocumentByName((string)swPart[1]);
                             if (swDocDepend != null)
                             {
@@ -1417,7 +1417,7 @@ namespace 刷新文件卡
                 }
                 textBoxFileListPrint.AppendText("-------------" + System.Environment.NewLine);
                 MessageBox.Show(this,"转换PDF完成,共生成" + counter + "个PDF文件");
-                
+
                 counter = 0;
                 total = 0;
             }
@@ -1497,7 +1497,7 @@ namespace 刷新文件卡
                         //    Debug.Print((string)o);
                         //}
 
-                        //////////////////////////需要判断是PART还是ASSEMBLY///////////           
+                        //////////////////////////需要判断是PART还是ASSEMBLY///////////
                         //ModelDoc2 swDocDepend = swApp.GetOpenDocumentByName((string)swPart[1]);
                         ModelDoc2 swDocDepend = swDoc;
                         if (swDocDepend != null)
@@ -1536,7 +1536,7 @@ namespace 刷新文件卡
                                     textBox3.AppendText("WARNING（图样代号为空）: " + filePath + System.Environment.NewLine);
                                     textBox4.AppendText("WARNING（图样代号为空）: " + filePath + System.Environment.NewLine);
                                 }
-                                #endregion                               
+                                #endregion
                             }
                             else
                             {
@@ -1585,7 +1585,7 @@ namespace 刷新文件卡
                             stepFileName = stepFileDirPath + name + "." + "step";
                         }
 
-                        
+
                         //boolstatus = swModelDocExt.SaveAs(stepFileName, (int)swSaveAsVersion_e.swSaveAsCurrentVersion, (int)swSaveAsOptions_e.swSaveAsOptions_Silent, null, ref errors, ref warnings);
                         boolstatus = swModelDocExt.SaveAs(stepFileName, 0, (int)swSaveAsOptions_e.swSaveAsOptions_Silent, null, ref errors, ref warnings);
 
@@ -1613,7 +1613,7 @@ namespace 刷新文件卡
                 }
                 textBoxFileListPrint.AppendText("-------------" + System.Environment.NewLine);
                 MessageBox.Show(this, "转换STEP完成,共生成" + counter + "个STEP文件");
-                
+
                 counter = 0;
                 total = 0;
             }
@@ -1744,7 +1744,7 @@ namespace 刷新文件卡
             int componentType;
             string originalPath;
             string targetPath;
-            int columnNum = 0;           
+            int columnNum = 0;
             valPartNumber = "";
             valoutPartNumber = "";
             valPartName = "";
@@ -1754,7 +1754,7 @@ namespace 刷新文件卡
             string drawingName = "";//工程图名称，需带上扩展名
 
             ModelDocExtension componentExtension = default(ModelDocExtension);
-            CustomPropertyManager componentCustomPropertyManager = default(CustomPropertyManager);            
+            CustomPropertyManager componentCustomPropertyManager = default(CustomPropertyManager);
 
             vChildComp = (object[])swComp.GetChildren();
             for (i = 0; i < vChildComp.Length; i++)
@@ -1924,7 +1924,7 @@ namespace 刷新文件卡
                 int clipPoint = xlsName.LastIndexOf('.');
                 xlsName = xlsName.Substring(0, xlsName.LastIndexOf('.')) + "BOM.xls";//默认表格文件名称
 
-                //用于Pack&Go               
+                //用于Pack&Go
                 ConfigurationManager swConfMgr;
                 Configuration swConf;
                 Component2 swRootComp;
@@ -1964,13 +1964,13 @@ namespace 刷新文件卡
                     string path;
                     string targetName;
                     string targetExtensionname;
-                    
+
                     Microsoft.Office.Interop.Excel._Application excelApp = new Microsoft.Office.Interop.Excel.Application();
-                    excelApp.Visible = true;                    
+                    excelApp.Visible = true;
                     ExcelEdit ee = new ExcelEdit();
                     ee.wb = excelApp.Workbooks.Open(xlsName);//打开workbook
                     ee.sheetName = "BOM";//设定worksheet名称
-                    ee.ws = (Worksheet)ee.wb.Worksheets[ee.sheetName];                    
+                    ee.ws = (Worksheet)ee.wb.Worksheets[ee.sheetName];
                     string l = ee.Read(1, 2);
                     Debug.Print(l+"ee.Read");
 
@@ -2031,7 +2031,7 @@ namespace 刷新文件卡
                                 level + ":" + partNumber + ":" + partName + ":" + originalPath + ":" +
                                 targetPath);
                             column = 1;//列号回滚至行首
-                            
+
 
                             #region 重命名操作
                             //IPackAndGo??
@@ -2051,11 +2051,11 @@ namespace 刷新文件卡
                             #endregion
                             row++;//下移一行
                         }
-                        
+
                         Debug.Print("    My path and filename is: " + pgGetFileNames[i]);
-                    }               
-                    
-                    
+                    }
+
+
                     //设置另存为的文件名
                     //********字符串中似乎仅截取文件名部分，路径部分自动替换为SetSaveToName所指定的路径？***
                     swPackAndGo.SetDocumentSaveToNames(pgGetFileNames);
@@ -2075,7 +2075,7 @@ namespace 刷新文件卡
                     //未找到表格
                     MessageBox.Show("未找到"+ xlsName, "警告", MessageBoxButtons.OK);
                 }
-                
+
 
             }
             else
